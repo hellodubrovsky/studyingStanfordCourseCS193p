@@ -14,7 +14,7 @@ struct ContentView: View {
                .stroke(lineWidth: 3)
             Text("Hello, Dubrovsky!")
                 .foregroundColor(.red)
-        })
+        }
         .foregroundColor(.blue)
         .padding(.horizontal)
 
